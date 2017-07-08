@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_exercise_options">
+        <item>@string/exercise_nope</item>
+        <item>@string/exercice_yes</item>
+    </string-array>
+    <string-array name="array_junkfood_options">
+        <item>@string/junkfood_yes</item>
+        <item>@string/junkfood_no</item>
+    </string-array>
+</resources>
