@@ -56,7 +56,7 @@ public class TrackContract {
         /**
          * Values for JunkFood
          */
-        public static final int JUNKFOOD_NOPE = 0;
-        public static final int JUNKFOOD_YES = 1;
+        public static final int JUNKFOOD_YES = 0;
+        public static final int JUNKFOOD_NOPE = 1;
     }
 }
